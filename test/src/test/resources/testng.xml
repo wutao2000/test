@@ -9,7 +9,9 @@
 	<test name="com.wxk.org">
 	    <classes>
 			<class name="com.cn.Testabc" />
-
+			<class name="com.cn.TestApi" />
+			<class name="com.cn.TestHello" />
+			<class name="com.cn.TestHelloword" />
 		</classes>
 
 
