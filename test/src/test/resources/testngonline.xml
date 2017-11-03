@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<!-- @BeforeSuite -->
+<suite name="TestAll">
+
+	<!-- @BeforeTest -->
+	<parameter name="testapi" value="${testapi}"></parameter>
+	<test name="study">
+	    <classes>
+			<class name="com.cn.Testabc" />
+			<class name="com.cn.TestApi" />
+
+		</classes>
+
+
+	</test>
+	<!-- @AfterTest -->
+
+
+</suite>
+<!-- @AfterSuite -->
