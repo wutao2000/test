@@ -41,7 +41,7 @@
 				<version>2.16</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>src/test/resources/testngdev.xml</suiteXmlFile>
+						<suiteXmlFile>${testng}</suiteXmlFile>
 					</suiteXmlFiles>
 
 						<suitename>AllTests</suitename>
