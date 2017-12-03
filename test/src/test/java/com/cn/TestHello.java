@@ -14,7 +14,7 @@ public class TestHello {
 
     	int c = 0;
     	c=a+b;
-    	System.out.println("执行这个方法 �?     "+c);
+    	System.out.println("执行这个方法   "+c);
     	return c;
     }
     
